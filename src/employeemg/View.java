@@ -1,3 +1,5 @@
+/*Author Loday T Gyeltshen
+*College of Science and Technology*/
 package employeemg;
 
 import javax.swing.JFrame;
